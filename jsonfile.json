@@ -1,8 +1,8 @@
 {
   "ads":[
-    { "AdmobBanner":"ca-app-pub-6273521591540466/1500349586"},
-    { "AdmobInterstitial":"ca-app-pub-6273521591540466/8727585993" },
-        { "AdmobNative":"ca-app-pub-6273521591540466/6607198428" },
+    { "AdmobBanner":"ca-app-pub-3940256099942544/6300978111"},
+    { "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712" },
+        { "AdmobNative":"ca-app-pub-3940256099942544/5224354917" },
 
 	  	  
             { "UnityGameid":"" },
